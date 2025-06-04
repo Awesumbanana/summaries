@@ -1,0 +1,19 @@
+{
+  "name": "summaries",
+  "version": "1.0.0",
+  "description": "AI powered brain dump chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Awesumbanana/summaries.git"
+  },
+  "author": "Avinash Sylendranath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awesumbanana/summaries/issues"
+  },
+  "homepage": "https://github.com/Awesumbanana/summaries#readme"
+}
